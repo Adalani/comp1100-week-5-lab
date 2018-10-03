@@ -1,1 +1,0 @@
-Your triangle has 3 sides that are: 5cm, 7cm and 8.60233cm.
